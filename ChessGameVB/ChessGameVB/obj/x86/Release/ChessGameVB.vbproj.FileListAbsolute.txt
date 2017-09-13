@@ -1,0 +1,9 @@
+C:\Pradeep\Visual Basics\ChessGameVB\ChessGameVB\bin\Release\ChessGameVB.exe
+C:\Pradeep\Visual Basics\ChessGameVB\ChessGameVB\bin\Release\ChessGameVB.pdb
+C:\Pradeep\Visual Basics\ChessGameVB\ChessGameVB\bin\Release\ChessGameVB.xml
+C:\Pradeep\Visual Basics\ChessGameVB\ChessGameVB\obj\x86\Release\ChessGameVB.Form1.resources
+C:\Pradeep\Visual Basics\ChessGameVB\ChessGameVB\obj\x86\Release\ChessGameVB.Resources.resources
+C:\Pradeep\Visual Basics\ChessGameVB\ChessGameVB\obj\x86\Release\ChessGameVB.vbproj.GenerateResource.Cache
+C:\Pradeep\Visual Basics\ChessGameVB\ChessGameVB\obj\x86\Release\ChessGameVB.exe
+C:\Pradeep\Visual Basics\ChessGameVB\ChessGameVB\obj\x86\Release\ChessGameVB.xml
+C:\Pradeep\Visual Basics\ChessGameVB\ChessGameVB\obj\x86\Release\ChessGameVB.pdb
